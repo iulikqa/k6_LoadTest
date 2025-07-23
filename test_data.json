@@ -1,0 +1,5 @@
+[
+    {"id": 1, "title": "json-server", "author": "typicode"},
+    {"id": 2, "title": "load testing", "author": "k6"},
+    {"id": 3, "title": "performance", "author": "engineer"}
+]
